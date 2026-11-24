@@ -1,0 +1,6 @@
+Write one line of software error copy, at most 200 characters, that tells
+the user the brutal truth about what actually broke — and makes them laugh
+on the way. The line must name the real failure in plain words (no vague
+apology, no "something went wrong"), read as a single line a team could
+actually ship in an error dialog, and be funny on a single read. The
+program writes that one line to entry.txt.
